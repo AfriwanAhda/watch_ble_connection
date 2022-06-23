@@ -72,7 +72,7 @@ WatchConnection.setData("/actor/cage",{
 
 Use the static method `WatchConnection.listenForDataLayer;` to register a data listener function.
 
-* Android specific: if the data is a string then the library will assume it is JSON and try to convert it. if that operation fails the data will be sent to the listener unchanged.
+* (android specific) if the data is a string then the library will assume it is JSON and try to convert it. if that operation fails the data will be sent to the listener unchanged.
   
 #### Example listen for data
 
