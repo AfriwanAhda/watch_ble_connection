@@ -2,7 +2,7 @@
 
 Communication between Wear OS or watchOS SmartWatch and Android/iOS Device with Bluetooth Low Energy (BLE).
 
-This will send and recieve messages and/or data to the platform specific wearable communication methood. It uses the wearable data layer and messaging API's on android devices and WCSession on IPhones
+This will send and recieve messages and/or data to the platform specific wearable communication method. It uses the wearable data layer and messaging API's on android devices and WCSession on iPhones
 
 ## Install
 
