@@ -1,6 +1,6 @@
 name: watch_ble_connection
-description: Communication layer between a Flutter project for Android and IOS.
-version: 1.0.0
+description: Communication between Watch and Android/iOS Device.
+version: 1.0.1
 repository: https://github.com/AfriwanAhda/watch_ble_connection.git
 
 environment:

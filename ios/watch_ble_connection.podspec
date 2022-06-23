@@ -4,14 +4,14 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'watch_ble_connection'
-  s.version          = '1.0.0'
-  s.summary          = 'A new flutter plugin project.'
+  s.version          = '1.0.1'
+  s.summary          = 'Communication between Watch and Android/iOS Device'
   s.description      = <<-DESC
-A new flutter plugin project.
+Flutter Package for communication between Wear OS or watchOS SmartWatch and Android/iOS Device with Bluetooth Low Energy (BLE).
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://diponten.com/'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'www.diponten.com' => 'afriwan.phys@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
